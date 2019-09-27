@@ -9,7 +9,7 @@
         android:background="#000000"
         tools:context=".MyActivity1">
     <Button
-            android:id="@+id/Chty"
+            android:id="@+id/startbtn"
             android:layout_width="150dp"
             android:layout_height="200dp"
             android:layout_marginStart="130dp"
