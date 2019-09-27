@@ -14,7 +14,7 @@
             android:layout_height="200dp"
             android:layout_marginStart="130dp"
             android:layout_marginTop="276dp"
-            android:text="click"
+            android:text="dont click"
             android:textSize="20sp"
             android:gravity="center">
     </Button>
